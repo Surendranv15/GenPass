@@ -1,0 +1,28 @@
+
+      Hello there, welcome to first Python console app. 
+
+      this is strong password generator, this console app can make best password for you.
+
+      in the below i describe how you can use this app but let me to
+      say thank you for useing this app. 
+
+      
+      	1. if you wana to make a normal password, first enter the 'N' and second
+           enter the limit you want. ^Attention! normal password created just with alphabets and numbers.^
+
+      	2. if you wana to make a Strong password, first enter the 'S' and second
+           enter the limit you want. ^Attention! strong password created with alphabets, symbols and numbers.^
+
+      	3. if you wana to make a password list, first enter the 'L' and second enter
+           limit you want,before choose the elements enter limit of length of passwords,
+           enter elements you want for passwords [upper Case Alphabet,
+           lower Case Alphabet, numbers, symbols] and after you finished write 'ex'.
+      
+Enter wich type of password you want: L
+Enter the limit: 4
+Enter your passwords length: 4
+choose your Elements: s
+choose your Elements: A
+choose your Elements: C
+choose your Elements: ex
+Those are some of your password see more in password list file --> password-list-number-1718035128.txt
