@@ -38,7 +38,7 @@ At now we have *three option* in below i going to describe all of this options f
 
 After you choose your option write it in below *input*.
 ``` 
-Enter wich type of password you want: M
+Enter wich type of password you want: N
 ```
 and after you enter your option, write your length limit you want in next *input*.
 ```
